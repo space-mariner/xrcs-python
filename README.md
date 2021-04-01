@@ -1,0 +1,2 @@
+# xrcs-python
+Python exercises 
